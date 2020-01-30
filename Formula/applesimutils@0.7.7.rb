@@ -1,4 +1,4 @@
-class Applesimutils < Formula
+class ApplesimutilsAT077 < Formula
   desc 'Apple simulator utilities'
   homepage 'https://github.com/wix/AppleSimulatorUtils'
   url 'https://github.com/wix/AppleSimulatorUtils/releases/download/0.7.7/AppleSimulatorUtils-0.7.7.tar.gz'
